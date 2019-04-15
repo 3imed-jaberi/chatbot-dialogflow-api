@@ -22,8 +22,8 @@
  - now write ```npm run start``` in the terminal to run the api and can test with postman or integrate with any front-end framework/library/template engine.
 ## The Test Guide 
  Here we have two routes ;
-  1 - ```/``` : it's a ```GET``` request , just for say hello to the users .. 
-  2 - ```/client``` : it's a ```POST``` request , sould be put the client message in ```msg variable``` or change the name of variable in ```src/controllers/chatbot.js - ligne 51 ``` then received the chatbot answer after few milliseconds ..  
+  - ```/``` : it's a ```GET``` request , just for say hello to the users .. 
+  - ```/client``` : it's a ```POST``` request , sould be put the client message in ```msg variable``` or change the name of variable in ```src/controllers/chatbot.js - ligne 51 ``` then received the chatbot answer after few milliseconds ..  
 ## What's next ?
  - convert this project to node package ( cli pakcage can generate this code ) ..
  - create frontend projects for this api ..
